@@ -1,0 +1,22 @@
+.text {
+    margin: 10px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main--text {
+    font-size: 24px;
+}
+
+.container {
+    text-align: center;
+}
+
+label {
+    display: block;
+}
+
+.input {
+    border-radius: 10px;
+    padding: 5px;
+}
